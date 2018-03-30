@@ -35,7 +35,7 @@ export default {
   },
   methods:{
    greetings: function(){
-   return "whooooo!!!"``
+     return "whooooo!!!"
   },
   updateStatus: function($event){
     this.statusString = $event;
